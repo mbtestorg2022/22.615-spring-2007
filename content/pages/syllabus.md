@@ -45,38 +45,391 @@ Grading
 
 The final grade for the course will be based on the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 20% |
-| Midterm exam | 40% |
-| Final exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Derivation of the Boltzmann equation | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} The moment equations {{< br >}}{{< br >}} Derivation of ideal MHD equation {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} MHD equilibrium {{< br >}}{{< br >}} Validity of MHD {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Toroidal equilibrium and radial pressure balance | &nbsp; |
-| 5 | The screw pinch and the Grad-Shafranov equation | Homework 1 handed out |
-| 6 | The safety factor and the ohmic tokamak | &nbsp; |
-| 7 | The first order Grad-Shafranov equation | Homework 2 handed out |
-| 8 | Effect of a vertical field on tokamak equilibrium | Homework 1 handed in |
-| 9 | The high beta tokamak | &nbsp; |
-| 10 | The high beta tokamak (cont.) and the high flux conserving tokamak |  {{< br >}}{{< br >}} Homework 2 handed in {{< br >}}{{< br >}} Homework 3 handed out {{< br >}}{{< br >}}  |
-| 11 | Flux conserving tokamak (cont.) | &nbsp; |
-| 12 | PF design I - the plasma | &nbsp; |
-| 13 | PF design II - the coil solver | Homework 3 handed in |
-| 14 |  {{< br >}}{{< br >}} Formulation of the stability problem {{< br >}}{{< br >}} Real tokamaks (with Bob Granetz) {{< br >}}{{< br >}}  | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} Variational techniques {{< br >}}{{< br >}} Alternate concepts (with Darren Sarmer) {{< br >}}{{< br >}}  | &nbsp; |
-| 16 | Variational principle | &nbsp; |
-| 17 | Stability of simple function | Homework 4 handed out |
-| &nbsp; | Midterm exam | &nbsp; |
-| 18 | Lecture 18 | &nbsp; |
-| 19 | Lecture 19 |  {{< br >}}{{< br >}} Homework 4 handed in {{< br >}}{{< br >}} Homework 5 handed out {{< br >}}{{< br >}}  |
-| 20 | Lecture 20 | &nbsp; |
-| 21 | Lecture 21 | Homework 5 handed in |
-| 22 | Lecture 22 | &nbsp; |
-| &nbsp; | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Derivation of the Boltzmann equation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The moment equations
+
+Derivation of ideal MHD equation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MHD equilibrium
+
+Validity of MHD
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Toroidal equilibrium and radial pressure balance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The screw pinch and the Grad-Shafranov equation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The safety factor and the ohmic tokamak
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The first order Grad-Shafranov equation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Effect of a vertical field on tokamak equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 handed in
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The high beta tokamak
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The high beta tokamak (cont.) and the high flux conserving tokamak
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 handed in
+
+Homework 3 handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Flux conserving tokamak (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+PF design I - the plasma
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+PF design II - the coil solver
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 handed in
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Formulation of the stability problem
+
+Real tokamaks (with Bob Granetz)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Variational techniques
+
+Alternate concepts (with Darren Sarmer)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Variational principle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Stability of simple function
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 18
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 4 handed in
+
+Homework 5 handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 20
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 21
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 handed in
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 22
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
