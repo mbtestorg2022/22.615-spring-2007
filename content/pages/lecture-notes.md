@@ -61,7 +61,7 @@ Validity of MHD ([PDF]({{< baseurl >}}/resources/lecture3_2))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Toroidal equilibrium and radial pressure balance (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture4))
+Toroidal equilibrium and radial pressure balance ([PDF]({{< baseurl >}}/resources/lecture4))
 {{< tdclose >}}
 
 {{< trclose >}}
